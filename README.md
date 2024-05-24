@@ -60,7 +60,7 @@ QR_Decomposition(a)SSS
 
 ## Output
 ```
-![image](https://github.com/jaikanth25/QRdecomposition/assets/155935294/b82c2497-0448-4c70-b92a-466da4a10e8e)
+![Screenshot 2024-05-24 171927](https://github.com/jaikanth25/QRdecomposition/assets/155935294/3b101d68-1c4e-49ce-9a22-222c88df7735)
 
 
 ```
