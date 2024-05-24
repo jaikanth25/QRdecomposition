@@ -1,4 +1,4 @@
-# Ex No:08 Algorithm for QR Decomposition
+# Ex No: 08 Algorithm for QR Decomposition
 ### DATE:
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
